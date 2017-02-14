@@ -1,0 +1,16 @@
+@media screen and (min-width:650px) and (max-width:960px) {
+	.divAdjust {
+		width: 100%;
+		background-color: yellow;
+		color: red;
+		padding: 10px;
+		height: 200px;
+		opacity: 0.4;
+	}
+	img {
+		z-index: auto;
+	}
+	.lefty {
+		display: none;
+	}
+}

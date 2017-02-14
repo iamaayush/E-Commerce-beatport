@@ -1,0 +1,45 @@
+body{
+	background-color:#51514E;
+}
+
+/* .picCaraousel1{
+	padding-top: 20px;
+	height:600px;
+}
+.picCaraousel2{
+	height:300px;
+}
+.picCaraousel3{
+	height:300px;
+} */
+
+.carouselheight{
+	height:375px;
+}
+
+#menuButton{
+	margin-top:10px;
+}
+
+.topimage{
+	height:100px;
+	width:100px;
+}
+
+.image{
+	height:100px;
+	width:100px;
+}
+
+.topdjpadding{
+	padding:10px;
+}
+
+.carouselmargin{
+	margin:25px 0px 0px 0px;
+}
+
+.viewCart{
+	text-decoration: none;
+	
+	}
